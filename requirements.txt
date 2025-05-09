@@ -1,0 +1,8 @@
+flask
+uvicorn
+langchain
+langchain_community
+asgiref
+sentence-transformers
+pytest
+redis
